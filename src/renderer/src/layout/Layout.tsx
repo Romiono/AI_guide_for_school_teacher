@@ -7,10 +7,10 @@ const Layout = (): ReactElement => {
   return (
     <DashboardLayout>
       {/*<PageContainer>*/}
-        <Outlet />
+      <Outlet />
       {/*</PageContainer>*/}
     </DashboardLayout>
-  );
+  )
 }
 
-export default Layout;
+export default Layout

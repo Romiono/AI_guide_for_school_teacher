@@ -1,10 +1,11 @@
-import { createBrowserRouter } from 'react-router-dom'
+import { createHashRouter } from 'react-router-dom'
 
 import App from '@renderer/App'
 import Layout from '@renderer/layout/Layout'
 import DocumentPage from '@renderer/routing/pages/DocumentPage/DocumentPage'
+import allImagesPage from "@renderer/routing/pages/allImagesPage/allImagesPage";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     Component: App,
     children: [
@@ -14,12 +15,12 @@ export const router = createBrowserRouter([
         children: [
           {
             path: '/documentation',
-            Component: DocumentPage
+            Component: allImagesPage
           },
           {
             path: '/documentation/:ntId',
             Component: DocumentPage
-          }
+          },
         ]
       }
     ]

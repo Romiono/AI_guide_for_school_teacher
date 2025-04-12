@@ -6,44 +6,42 @@ import { Outlet } from 'react-router-dom'
 export const App = (): ReactElement => {
   const Navigation: Navigation = [
     {
-      title: 'Text Ai',
       segment: 'documentation',
+      // kind: 'header',
       children: [
         {
-          title: 'deepseek',
-          segment: 'deepseek'
+          title: 'Text Ai',
+          children: [
+            {
+              title: 'qwen',
+              segment: 'qwen'
+            },
+            {
+              kind: 'divider'
+            }
+          ]
         },
         {
-          title: 'yandexgpt',
-          segment: 'yandexgpt'
+          title: 'Image Ai',
+          // segment: '',
+          children: [
+            {
+              kind: 'divider'
+            }
+          ]
         },
         {
-          title: 'gigachat',
-          segment: 'gigachat'
-        },
-        {
-          kind: 'divider'
-        }
-      ]
-    },
-    {
-      title: 'Image Ai',
-      segment: 'documentation',
-      children: [
-        {
-          title: 'stabledifusane',
-          segment: 'stabledifusane'
-        },
-        {
-          title: 'dalee',
-          segment: 'dalee'
-        },
-        {
-          title: 'midjorney',
-          segment: 'midjorney'
-        },
-        {
-          kind: 'divider'
+          title: 'Audio AI',
+          // segment: '',
+          children: [
+            {
+              title: 'suno',
+              segment: 'suno'
+            },
+            {
+              kind: 'divider'
+            }
+          ]
         }
       ]
     }
