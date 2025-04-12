@@ -6,7 +6,8 @@ import rehypeRaw from 'rehype-raw'
 import remarkGfm from "remark-gfm";
 import remarkImages from "remark-images";
 import classes from './DocumentPage.module.scss'
-import { markdown } from '@renderer/assets/markdown/MarkDown'
+import markdown from '@renderer/assets/markdown/MarkDown'
+import CustomImage from '@renderer/components/CustomImage/CustomImage'
 
 const DocumentPage = (): ReactElement => {
   const params = useParams()
@@ -16,10 +17,16 @@ const DocumentPage = (): ReactElement => {
     setContent(text)
   }, [params.ntId])
 
+
   return (
     <div className={classes.container}>
       <div className={classes.text}>
-        <Markdown  remarkPlugins={[remarkBreaks, remarkGfm, remarkImages]} rehypePlugins={[rehypeRaw]}>
+        <Markdown
+          remarkPlugins={[remarkBreaks, remarkGfm, remarkImages]}
+          rehypePlugins={[rehypeRaw]}
+          components={{
+            img: CustomImage
+        }}>
           {content}
         </Markdown>
       </div>

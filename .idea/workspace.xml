@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6019da66-d50d-40a6-b5ae-53e612f0799f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/renderer/src/layout/Layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/src/routing/router.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/electron.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/wavy-lines.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/components/Versions.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron.vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/electron.vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +87,22 @@
       <workItem from="1744278258403" duration="2478000" />
       <workItem from="1744334775808" duration="845000" />
       <workItem from="1744336378172" duration="1565000" />
-      <workItem from="1744339490860" duration="2492000" />
+      <workItem from="1744339490860" duration="11623000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

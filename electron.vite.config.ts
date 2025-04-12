@@ -19,7 +19,7 @@ export default defineConfig({
     },
     base: './',
     plugins: [react()],
-    assetsInclude: ['src/renderer/src/assets/images/**/.png', 'src/renderer/src/assets/images/**/.svg'],
+    assetsInclude: ['src/renderer/src/assets/images/**/*.png', 'src/renderer/src/assets/images/**/*.svg'],
     build: {
       rollupOptions: {
         preserveEntrySignatures: 'strict',
