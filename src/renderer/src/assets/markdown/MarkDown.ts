@@ -1,6 +1,3 @@
-
-
-
 // ![стандартный импорт](${images.suno.screenShot1})
 // ![/suno](/suno/Screenshot1.png)
 // ![/resources](/resources/suno/Screenshot1.png)
@@ -21,6 +18,7 @@ const markdown = {
 **Скриншот 1:** Окно браузера с адресной строкой.
 
 ![метод с кастомным image](suno/screenShot1)
+
 
 
 ### **Шаг 2: Вход в Suno AI**

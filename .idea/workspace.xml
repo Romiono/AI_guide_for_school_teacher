@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6019da66-d50d-40a6-b5ae-53e612f0799f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" afterDir="false" />
+    <list default="true" id="6019da66-d50d-40a6-b5ae-53e612f0799f" name="Changes" comment="fixed probrem with image's imports in markdown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electron.vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/electron.vite.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/pet_projects/beckend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/romashka/Рабочий стол/Projects/web-storm-projects/Кубик/AI_guide_for_school_teacher/node_modules/prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/romashka/Рабочий стол/Projects/web-storm-projects/Кубик/AI_guide_for_school_teacher/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/pet_projects/beckend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/home/romashka/Рабочий стол/Projects/web-storm-projects/Кубик/AI_guide_for_school_teacher/node_modules/prettier",
+    "ts.external.directory.path": "/home/romashka/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/renderer/src/routing" />
@@ -87,19 +84,32 @@
       <workItem from="1744278258403" duration="2478000" />
       <workItem from="1744334775808" duration="845000" />
       <workItem from="1744336378172" duration="1565000" />
-      <workItem from="1744339490860" duration="11623000" />
+      <workItem from="1744339490860" duration="13366000" />
+      <workItem from="1744508960406" duration="254000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed probrem with image's imports in markdown">
+      <option name="closed" value="true" />
+      <created>1744495978716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744495978716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed probrem with image's imports in markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed probrem with image's imports in markdown" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
