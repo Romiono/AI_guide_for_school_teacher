@@ -1,20 +1,16 @@
-# metodology
+# Мetodology
 
-An Electron application with React and TypeScript
+Простое приложение на Electron + React, созданное для обучения преподавателей взаимодействию с нейронными сетями.
 
-## Recommended IDE Setup
+## Проект
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
+### Установка
 
 ```bash
 $ npm install
 ```
 
-### Development
+### Разработка
 
 ```bash
 $ npm run dev
@@ -23,12 +19,31 @@ $ npm run dev
 ### Build
 
 ```bash
-# For windows
+# Для Windows
 $ npm run build:win
 
-# For macOS
+# Для macOS
 $ npm run build:mac
 
-# For Linux
+# Для Linux
 $ npm run build:linux
+
+# Компиляция в setup.exe
+$ npm run build:exe
 ```
+
+## Команда:
+
+###Выражается отдельная благодарность:
+
+#### Методисты:
+@rebe1labmusic
+@iyariman
+@loffixz
+@elollly
+@Dallary1
+@kkdeboraa
+@F3nX00
+
+#### Разработчик:
+@Infekted156
