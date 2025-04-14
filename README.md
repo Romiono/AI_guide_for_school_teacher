@@ -37,13 +37,13 @@ $ npm run build:exe
 ### Выражается отдельная благодарность:
 
 #### Методисты:
-@rebe1labmusic
-@iyariman
-@loffixz
-@elollly
-@Dallary1
-@kkdeboraa
-@F3nX00
+- @rebe1labmusic
+- @iyariman
+- @loffixz
+- @elollly
+- @Dallary1
+- @kkdeboraa
+- @F3nX00
 
 #### Разработчик:
-@Infekted156
+- @Infekted156
