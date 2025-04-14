@@ -16,7 +16,7 @@ $ npm install
 $ npm run dev
 ```
 
-### Build
+### Сборка
 
 ```bash
 # Для Windows
