@@ -5,7 +5,7 @@ const CustomImage = ({ src = '', alt = '' }: { src?: string; alt?: string }): Re
   const srcEntry = src.split('/')
   console.log(srcEntry)
   let resolvedSrc = ''
-  if(images[srcEntry[0]][srcEntry[1]]) {
+  if (images[srcEntry[0]][srcEntry[1]]) {
     resolvedSrc = images[srcEntry[0]][srcEntry[1]]
   }
 

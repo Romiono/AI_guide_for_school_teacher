@@ -25,7 +25,7 @@ import image22 from '../../../../resources/Qwen/qr-code-20250410224056-wr3t635.s
 
 const images = {
   suno: {
-    'screenShot1': image,
+    screenShot1: image,
     '2D86AC4F-70D2-4F7D-83AC-6EB0F7F19330': image1,
     '3A15619D-5A5C-491F-91F9-BA812F87ED8F': image2,
     '3F1765B5-CACB-4229-B441-76AFB3E73101': image3,
@@ -36,21 +36,21 @@ const images = {
     'FF37FBDD-E785-40BF-8E59-11F74FF06760': image8
   },
   qwen: {
-    'xopmt2q': image9,
-    'jd4r5gn': image10,
+    xopmt2q: image9,
+    jd4r5gn: image10,
     '6yqa75k': image11,
-    'jrzvmqf': image12,
-    'lgv1lyc': image13,
+    jrzvmqf: image12,
+    lgv1lyc: image13,
     '9ow7gaw': image14,
-    'tmb2h00': image15,
-    'pj6rsgf': image16,
-    'eshznbg': image17,
+    tmb2h00: image15,
+    pj6rsgf: image16,
+    eshznbg: image17,
     '0ginmvy': image18,
-    'cosmygr': image19,
-    'hxu1gpn': image20,
-    'rkw24f3': image21,
-    'wr3t635': image22,
+    cosmygr: image19,
+    hxu1gpn: image20,
+    rkw24f3: image21,
+    wr3t635: image22
   }
 }
 
-export default images;
+export default images

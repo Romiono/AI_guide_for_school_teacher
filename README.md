@@ -37,6 +37,7 @@ $ npm run build:exe
 ### Выражается отдельная благодарность участникам проекта, ниже можно увидеть их Telegram теги:
 
 #### Методисты:
+
 - @rebe1labmusic
 - @iyariman
 - @loffixz
@@ -46,4 +47,5 @@ $ npm run build:exe
 - @F3nX00
 
 #### Разработчик:
+
 - @Infekted156

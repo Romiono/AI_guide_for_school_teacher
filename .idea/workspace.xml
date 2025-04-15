@@ -50,7 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/pet_projects/beckend",
+    "last_opened_file_path": "C:/Users/mrfre/WebstormProjects/AI_guide_for_school_teacher",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,13 +66,6 @@
       <recent name="$PROJECT_DIR$/src/renderer/src/routing" />
     </key>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +79,7 @@
       <workItem from="1744336378172" duration="1565000" />
       <workItem from="1744339490860" duration="13366000" />
       <workItem from="1744508960406" duration="254000" />
+      <workItem from="1744679072000" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="fixed probrem with image's imports in markdown">
       <option name="closed" value="true" />

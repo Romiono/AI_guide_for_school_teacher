@@ -10,11 +10,7 @@ const AllImagesPage = (): ReactElement => {
             <div className="images-grid">
               {Object.entries(categoryImages).map(([name, imgSrc]) => (
                 <div key={`${category}-${name}`} className="image-item">
-                  <img
-                    src={imgSrc}
-                    alt={`${category} - ${name}`}
-                    className="gallery-image"
-                  />
+                  <img src={imgSrc} alt={`${category} - ${name}`} className="gallery-image" />
                   <p className="image-name">{name}</p>
                 </div>
               ))}
