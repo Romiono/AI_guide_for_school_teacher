@@ -7,39 +7,41 @@ export const App = (): ReactElement => {
   const Navigation: Navigation = [
     {
       segment: 'documentation',
-      // kind: 'header',
+      pattern: 'AppTitle',
       children: [
         {
           title: 'Text Ai',
           children: [
             {
-              title: 'qwen',
+              title: 'Qwen',
               segment: 'qwen'
-            },
-            {
-              kind: 'divider'
             }
           ]
         },
         {
           title: 'Image Ai',
-          // segment: '',
           children: [
             {
-              kind: 'divider'
+              title: 'Krea',
+              segment: 'krea'
             }
           ]
         },
         {
           title: 'Audio AI',
-          // segment: '',
           children: [
             {
-              title: 'suno',
+              title: 'Suno',
               segment: 'suno'
-            },
+            }
+          ]
+        },
+        {
+          title: 'Presentation AI',
+          children: [
             {
-              kind: 'divider'
+              title: 'Gamma',
+              segment: 'gamma'
             }
           ]
         }
