@@ -5,11 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   main: {
     plugins: [externalizeDepsPlugin()]
-    // assetsInclude: ['src/renderer/src/assets/**'],
   },
   preload: {
     plugins: [externalizeDepsPlugin()]
-    // assetsInclude: ['src/renderer/src/assets/**'],
   },
   renderer: {
     resolve: {

@@ -9,6 +9,7 @@ import classes from './DocumentPage.module.scss'
 import markdown from '@renderer/assets/markdown/MarkDown'
 import CustomImage from '@renderer/components/CustomImage/CustomImage'
 import rehypeHighlight from 'rehype-highlight'
+import CenterMd from '@renderer/components/CenterMD/CenterMd'
 
 const DocumentPage = (): ReactElement => {
   const params = useParams()
@@ -25,7 +26,8 @@ const DocumentPage = (): ReactElement => {
           remarkPlugins={[remarkBreaks, remarkGfm, remarkImages]}
           rehypePlugins={[rehypeRaw, rehypeHighlight]}
           components={{
-            img: CustomImage
+            img: CustomImage,
+            center: ({ children }) => <CenterMd>{children}</CenterMd>,
           }}
         >
           {content}

@@ -21,6 +21,16 @@
     "build:linux": "electron-vite build && electron-builder --linux",
     "build:exe": "electron-builder --win --x64"
   },
+  "build": {
+    "appId": "metodology",
+    "win": {
+      "target": "nsis"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
   "build:exe": {
     "appId": "metodology",
     "win": {
@@ -28,7 +38,7 @@
     },
     "nsis": {
       "oneClick": false,
-      "alowToChangeInstallationDirectory": true
+      "allowToChangeInstallationDirectory": true
     }
   },
   "dependencies": {

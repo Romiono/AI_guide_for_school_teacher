@@ -7,19 +7,23 @@ export const App = (): ReactElement => {
   const Navigation: Navigation = [
     {
       segment: 'documentation',
-      pattern: 'AppTitle',
+      title: 'Документация',
       children: [
         {
-          title: 'Text Ai',
+          title: 'Генераторы текса',
           children: [
             {
               title: 'Qwen',
               segment: 'qwen'
+            },
+            {
+              title: 'Deepseek',
+              segment: 'deepseek'
             }
           ]
         },
         {
-          title: 'Image Ai',
+          title: 'Генераторы картинок',
           children: [
             {
               title: 'Krea',
@@ -28,7 +32,7 @@ export const App = (): ReactElement => {
           ]
         },
         {
-          title: 'Audio AI',
+          title: 'Генераторы песен',
           children: [
             {
               title: 'Suno',
@@ -37,13 +41,17 @@ export const App = (): ReactElement => {
           ]
         },
         {
-          title: 'Presentation AI',
+          title: 'Генераторы презентаций',
           children: [
             {
               title: 'Gamma',
               segment: 'gamma'
             }
           ]
+        },
+        {
+          title: 'Как распознать ИИ',
+          segment: 'fakes'
         }
       ]
     }

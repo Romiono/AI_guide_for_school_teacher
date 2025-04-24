@@ -1,12 +1,16 @@
-import image from '../../../../resources/Suno/Screenshot1.png'
-import image1 from '../../../../resources/Suno/2D86AC4F-70D2-4F7D-83AC-6EB0F7F19330.png'
-import image2 from '../../../../resources/Suno/3A15619D-5A5C-491F-91F9-BA812F87ED8F.png'
-import image3 from '../../../../resources/Suno/3F1765B5-CACB-4229-B441-76AFB3E73101.png'
-import image4 from '../../../../resources/Suno/6AB88437-0A01-47BC-8187-220D1180ACB7.png'
-import image5 from '../../../../resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D.png'
-import image6 from '../../../../resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D_1.png'
-import image7 from '../../../../resources/Suno/30EBFB77-F0A8-40E5-998B-A2BF00762F76.png'
-import image8 from '../../../../resources/Suno/FF37FBDD-E785-40BF-8E59-11F74FF06760.png'
+import image1 from '../../../../resources/Suno/Pasted image 20250415130936.png'
+import image2 from '../../../../resources/Suno/Pasted image 20250415131516.png'
+import image3 from '../../../../resources/Suno/Pasted image 20250415135110.png'
+import image4 from '../../../../resources/Suno/Pasted image 20250415135636.png'
+import image5 from '../../../../resources/Suno/Pasted image 20250415140345.png'
+import image6 from '../../../../resources/Suno/Pasted image 20250415140817.png'
+import image7 from '../../../../resources/Suno/Pasted image 20250415140910.png'
+import image8 from '../../../../resources/Suno/Pasted image 20250415140956.png'
+import image62 from '../../../../resources/Suno/qr-code.svg'
+import image63 from '../../../../resources/Suno/create.avif'
+import image64 from '../../../../resources/Suno/Pasted-image-20250415131912.avif'
+import image65 from '../../../../resources/Suno/Pasted-image-20250415134626.avif'
+import image66 from '../../../../resources/Suno/Pasted-image-20250415134831.avif'
 
 import image9 from '../../../../resources/Qwen/image-20250410225843-jd4r5gn.png'
 import image10 from '../../../../resources/Qwen/image-20250410230434-xopmt2q.png'
@@ -64,18 +68,40 @@ import image59 from '../../../../resources/Gamma/Pasted-image-20250413191318.avi
 import image60 from '../../../../resources/Gamma/Pasted-image-20250413191447.avif'
 import image61 from '../../../../resources/Gamma/qr.start.gif'
 
+import image67 from '../../../../resources/Deepseek/1.avif'
+import image68 from '../../../../resources/Deepseek/2.avif'
+import image69 from '../../../../resources/Deepseek/3.png'
+import image70 from '../../../../resources/Deepseek/4.png'
+import image71 from '../../../../resources/Deepseek/5.png'
+import image72 from '../../../../resources/Deepseek/6.png'
+import image73 from '../../../../resources/Deepseek/7.png'
+import image74 from '../../../../resources/Deepseek/8.png'
+import image75 from '../../../../resources/Deepseek/qr-code-iphone.avif'
+import image76 from '../../../../resources/Deepseek/qr-code-play-market.avif'
+import image77 from '../../../../resources/Deepseek/qr-code.avif'
+import image78 from '../../../../resources/Deepseek/qr-code-ru.avif'
+
+import image79 from '../../../../resources/fakes/tralalela_tralala.jpg'
+import image80 from '../../../../resources/fakes/photo_2025-04-23_13-13-38.jpg'
+import image81 from '../../../../resources/fakes/Bombardiro_crocodilo.jpg'
+
+
 
 const images = {
   suno: {
-    'screenShot1': image,
-    '2D86AC4F-70D2-4F7D-83AC-6EB0F7F19330': image1,
-    '3A15619D-5A5C-491F-91F9-BA812F87ED8F': image2,
-    '3F1765B5-CACB-4229-B441-76AFB3E73101': image3,
-    '6AB88437-0A01-47BC-8187-220D1180ACB7': image4,
-    '6C3C9B48-DFEE-4A8A-BB3A-29754124056D': image5,
-    '6C3C9B48-DFEE-4A8A-BB3A-29754124056D1': image6,
-    '30EBFB77-F0A8-40E5-998B-A2BF00762F76': image7,
-    'FF37FBDD-E785-40BF-8E59-11F74FF06760': image8
+    '20250415130936': image1,
+    '20250415131516': image2,
+    '20250415135110': image3,
+    '20250415135636': image4,
+    '20250415140345': image5,
+    '20250415140817': image6,
+    '20250415140910': image7,
+    '20250415140956': image8,
+    'qr-code': image62,
+    'create': image63,
+    '20250415131912': image64,
+    '20250415134626': image65,
+    '20250415134831': image66
   },
   qwen: {
     'xopmt2q': image9,
@@ -135,6 +161,25 @@ const images = {
     '20250413191318': image59,
     '20250413191447': image60,
     'qr': image61
+  },
+  deepseek: {
+    '1': image67,
+    '2': image68,
+    '3': image69,
+    '4': image70,
+    '5': image71,
+    '6': image72,
+    '7': image73,
+    '8': image74,
+    'qr-iphone': image75,
+    'qr-market': image76,
+    'qr': image77,
+    'qr-ru': image78
+  },
+  fakes: {
+    'bombordiro': image81,
+    'tralalelo': image79,
+    'photo': image80,
   }
 }
 

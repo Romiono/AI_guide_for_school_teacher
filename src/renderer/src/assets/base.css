@@ -68,10 +68,26 @@ body {
 
 img {
   max-width: 100%;
+  max-height: 600px;
   margin: 0 auto;
 }
 
 p img {
   display: flex;
   justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 3px solid #ddd;
+}
+
+th, td {
+  border: 3px solid #ddd;
+  text-align: center;
+}
+
+li {
+  margin-inline: 10px;
 }

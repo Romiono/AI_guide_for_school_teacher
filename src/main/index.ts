@@ -33,6 +33,21 @@ function createWindow(): void {
   } else {
     mainWindow.loadFile(join(__dirname, '../renderer/index.html'))
   }
+
+  app.on('web-contents-created', (_, contents) => {
+    contents.on('before-input-event', (event, input) => {
+      if (input.control && input.key.toLowerCase() === 'f') {
+        contents.findInPage('')
+        event.preventDefault()
+      }
+    })
+  })
+
+  mainWindow.webContents.on('found-in-page', (_event, result) => {
+    if (result.finalUpdate) {
+      console.log(`Найдено совпадений: ${result.matches}`)
+    }
+  })
 }
 
 // This method will be called when Electron has finished
@@ -55,7 +70,7 @@ app.whenReady().then(() => {
   createWindow()
 
   app.on('activate', function () {
-    // On macOS it's common to re-create a window in the app when the
+    // On macOS, it's common to re-create a window in the app when the
     // dock icon is clicked and there are no other windows open.
     if (BrowserWindow.getAllWindows().length === 0) createWindow()
   })

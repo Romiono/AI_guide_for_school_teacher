@@ -5,9 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6019da66-d50d-40a6-b5ae-53e612f0799f" name="Changes" comment="fixed probrem with image's imports in markdown">
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/1.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/2.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-iphone.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-play-market.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-ru.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415130936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415131516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415135110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415135636.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140817.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140956.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415131912.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415134626.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415134831.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/create.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Suno/qr-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fakes/Bombardiro_crocodilo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fakes/photo_2025-04-23_13-13-38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fakes/tralalela_tralala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CenterMD/CenterMd.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron.vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/electron.vite.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/2D86AC4F-70D2-4F7D-83AC-6EB0F7F19330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/30EBFB77-F0A8-40E5-998B-A2BF00762F76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/3A15619D-5A5C-491F-91F9-BA812F87ED8F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/3F1765B5-CACB-4229-B441-76AFB3E73101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/6AB88437-0A01-47BC-8187-220D1180ACB7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/FF37FBDD-E785-40BF-8E59-11F74FF06760.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Suno/Screenshot1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,27 +90,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mrfre/WebstormProjects/AI_guide_for_school_teacher",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/home/romashka/Рабочий стол/Projects/web-storm-projects/Кубик/AI_guide_for_school_teacher/node_modules/prettier",
-    "ts.external.directory.path": "/home/romashka/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrfre/WebstormProjects/AI_guide_for_school_teacher/resources/Deepseek&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build:exe.executor&quot;: &quot;Run&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\mrfre\\WebstormProjects\\AI_guide_for_school_teacher\\node_modules\\prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\mrfre\\WebstormProjects\\AI_guide_for_school_teacher\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Deepseek" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\fakes" />
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Suno" />
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Gamma" />
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\suno" />
       <recent name="$PROJECT_DIR$/src/renderer/src/routing" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build:exe" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:exe" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build:exe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,6 +158,12 @@
       <workItem from="1744339490860" duration="13366000" />
       <workItem from="1744508960406" duration="254000" />
       <workItem from="1744679072000" duration="32000" />
+      <workItem from="1744679110925" duration="11506000" />
+      <workItem from="1744878769868" duration="5436000" />
+      <workItem from="1744948344338" duration="8030000" />
+      <workItem from="1745320576136" duration="4221000" />
+      <workItem from="1745405141410" duration="4379000" />
+      <workItem from="1745454399529" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="fixed probrem with image's imports in markdown">
       <option name="closed" value="true" />
@@ -98,15 +182,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed probrem with image's imports in markdown" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed probrem with image's imports in markdown" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

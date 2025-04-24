@@ -9,7 +9,7 @@ const CustomImage = ({ src = '', alt = '' }: { src?: string; alt?: string }): Re
     resolvedSrc = images[srcEntry[0]][srcEntry[1]]
   }
 
-  return <img src={resolvedSrc || ''} alt={alt} className="gallery-image" />
+  return <img src={resolvedSrc || ''} alt={alt} />
 }
 
 export default CustomImage
