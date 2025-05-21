@@ -83,11 +83,9 @@ table {
   border: 3px solid #ddd;
 }
 
-th, td {
+th,
+td {
   border: 3px solid #ddd;
   text-align: center;
 }
 
-li {
-  margin-inline: 10px;
-}

@@ -3,7 +3,6 @@ import { createHashRouter } from 'react-router-dom'
 import App from '@renderer/App'
 import Layout from '@renderer/layout/Layout'
 import DocumentPage from '@renderer/routing/pages/DocumentPage/DocumentPage'
-import allImagesPage from '@renderer/routing/pages/allImagesPage/allImagesPage'
 
 export const router = createHashRouter([
   {
@@ -15,7 +14,7 @@ export const router = createHashRouter([
         children: [
           {
             path: '/documentation',
-            Component: allImagesPage
+            Component: DocumentPage
           },
           {
             path: '/documentation/:ntId',

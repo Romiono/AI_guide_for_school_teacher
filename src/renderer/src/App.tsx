@@ -19,6 +19,10 @@ export const App = (): ReactElement => {
             {
               title: 'Deepseek',
               segment: 'deepseek'
+            },
+            {
+              title: 'Gigachat',
+              segment: 'gigachat'
             }
           ]
         },
@@ -28,6 +32,10 @@ export const App = (): ReactElement => {
             {
               title: 'Krea',
               segment: 'krea'
+            },
+            {
+              title: 'Fusion brain',
+              segment: 'fusionBrain'
             }
           ]
         },
@@ -52,13 +60,13 @@ export const App = (): ReactElement => {
         {
           title: 'Как распознать ИИ',
           segment: 'fakes'
-        }
+        },
       ]
     }
   ]
 
   const brand = {
-    title: 'Документация по нейронным сетям'
+    title: 'Путеводитель в мир ИИ'
   }
   return (
     <>

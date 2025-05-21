@@ -10,6 +10,7 @@ import markdown from '@renderer/assets/markdown/MarkDown'
 import CustomImage from '@renderer/components/CustomImage/CustomImage'
 import rehypeHighlight from 'rehype-highlight'
 import CenterMd from '@renderer/components/CenterMD/CenterMd'
+import CodeBlock from '@renderer/components/CodeBlock/CodeBlock'
 
 const DocumentPage = (): ReactElement => {
   const params = useParams()
@@ -20,20 +21,25 @@ const DocumentPage = (): ReactElement => {
   }, [params.ntId])
 
   return (
-    <div className={classes.container}>
-      <div className={classes.text}>
-        <Markdown
-          remarkPlugins={[remarkBreaks, remarkGfm, remarkImages]}
-          rehypePlugins={[rehypeRaw, rehypeHighlight]}
-          components={{
-            img: CustomImage,
-            center: ({ children }) => <CenterMd>{children}</CenterMd>,
-          }}
-        >
-          {content}
-        </Markdown>
-      </div>
-    </div>
+    <>
+      {!!content && (
+        <div className={classes.container}>
+          <div className={classes.text}>
+            <Markdown
+              remarkPlugins={[remarkBreaks, remarkGfm, remarkImages]}
+              rehypePlugins={[rehypeRaw, rehypeHighlight]}
+              components={{
+                img: CustomImage,
+                center: ({ children }) => <CenterMd>{children}</CenterMd>,
+                code: ({ children }) => <CodeBlock>{children}</CodeBlock>
+              }}
+            >
+              {content}
+            </Markdown>
+          </div>
+        </div>
+      )}
+    </>
   )
 }
 

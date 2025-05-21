@@ -5,55 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6019da66-d50d-40a6-b5ae-53e612f0799f" name="Changes" comment="fixed probrem with image's imports in markdown">
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/1.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/2.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-iphone.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-play-market.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code-ru.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Deepseek/qr-code.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415130936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415131516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415135110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415135636.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140345.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140817.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140910.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted image 20250415140956.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415131912.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415134626.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/Pasted-image-20250415134831.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/create.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Suno/qr-code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fakes/Bombardiro_crocodilo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fakes/photo_2025-04-23_13-13-38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fakes/tralalela_tralala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CenterMD/CenterMd.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426173843-e0vdeza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426174551-ddz83ug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426175410-pxpigat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426175525-l0vlnjk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426175706-dcce7r2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426180039-07dmt8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426180643-7q7mqop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426181221-xhwkgys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426183233-n93z1gh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426183621-gdbotp9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426183855-gte3jqm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/image-20250426185355-7874klr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/FusionBrain/qr-code-20250426173747-5jpp0cv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426171403-12b1zwe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426173056-rmkcjrw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426173309-iq26hrv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426175306-a9w1chm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426180032-5ulvvj2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426181649-wakljkr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426190859-ipqlge7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426191925-eb84tsk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426192512-1bmonel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426192754-6pgytpm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426193201-kua47g5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426193414-cwxzl0j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426201836-r25dxr0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426202208-vpsttd5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426210534-oueewq9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426211407-8rri0tu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426212401-v89n0yi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426212447-own4c0f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426212535-xq6ngpq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426213706-t6kr68x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426213800-o6eftrb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426214718-u22na3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426214900-6de0baw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426215150-kx3kg0v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/image-20250426215434-xnl3l0q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Gigachat/qr-code-20250425153115-tir323v.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CodeBlock/CodeBlock.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/src/components/CodeBlock/CodeBlock.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electron.vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/electron.vite.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/2D86AC4F-70D2-4F7D-83AC-6EB0F7F19330.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/30EBFB77-F0A8-40E5-998B-A2BF00762F76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/3A15619D-5A5C-491F-91F9-BA812F87ED8F.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/3F1765B5-CACB-4229-B441-76AFB3E73101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/6AB88437-0A01-47BC-8187-220D1180ACB7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/6C3C9B48-DFEE-4A8A-BB3A-29754124056D_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/FF37FBDD-E785-40BF-8E59-11F74FF06760.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Suno/Screenshot1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/assets/markdown/MarkDown.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/components/CustomImage/CustomImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/components/CenterMD/CenterMd.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/components/CenterMD/CenterMd.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/helpers/imagesImports.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/pages/DocumentPage/DocumentPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/src/routing/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/src/routing/router.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +113,11 @@
       <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Deepseek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\FusionBrain" />
+      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Gigachat" />
       <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\fakes" />
       <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Suno" />
       <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\Gamma" />
-      <recent name="C:\Users\mrfre\WebstormProjects\AI_guide_for_school_teacher\resources\suno" />
-      <recent name="$PROJECT_DIR$/src/renderer/src/routing" />
     </key>
   </component>
   <component name="RunManager">
@@ -163,7 +163,14 @@
       <workItem from="1744948344338" duration="8030000" />
       <workItem from="1745320576136" duration="4221000" />
       <workItem from="1745405141410" duration="4379000" />
-      <workItem from="1745454399529" duration="146000" />
+      <workItem from="1745454399529" duration="295000" />
+      <workItem from="1745489235274" duration="3824000" />
+      <workItem from="1746364893048" duration="129000" />
+      <workItem from="1747446352876" duration="1416000" />
+      <workItem from="1747496706524" duration="12000" />
+      <workItem from="1747502466327" duration="1732000" />
+      <workItem from="1747635197445" duration="5719000" />
+      <workItem from="1747702516162" duration="7398000" />
     </task>
     <task id="LOCAL-00001" summary="fixed probrem with image's imports in markdown">
       <option name="closed" value="true" />
